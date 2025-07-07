@@ -1,9 +1,6 @@
-- Hi, I’m @fa1ry7ale
-- 👀 I’m interested in ...
-- 🌱 I’m currently second-year student studying Computer Science and Engineering in Seoul National University.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: fairy7ale@snu.ac.kr
-- ⚡ Fun fact: ...
+- @fa1ry7ale
+- CSE Major in Seoul National University
+- fairy7ale@snu.ac.kr
 
 <!---
 fa1ry7ale/fa1ry7ale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
