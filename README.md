@@ -1,5 +1,4 @@
 - @fa1ry7ale
-- CSE Major in Seoul National University
 - fairy7ale@snu.ac.kr
 
 <!---
