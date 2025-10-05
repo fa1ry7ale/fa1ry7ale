@@ -1,5 +1,5 @@
 - @fa1ry7ale
-- fairy7ale@snu.ac.kr
+- fairy7ale@icloud.com
 
 <!---
 fa1ry7ale/fa1ry7ale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
